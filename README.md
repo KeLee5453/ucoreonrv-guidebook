@@ -1,12 +1,12 @@
-# uCore OS(on RISC-V64)实验指导书
+# Introduction
 
-* [ucore实验指导书]()
+* [ucore实验指导书](./)
 * [ucore labs 1-8 源码](https://github.com/nkgongxl/ucoreonrv/tree/code_practice)
 
 ## 实验总体流程
 
 1. 认真上操作系统的理论课程；
-2. 阅读[ucore实验指导书]()，并参考其内容完成联系和实验报告;
+2. 阅读[ucore实验指导书](./)，并参考其内容完成联系和实验报告;
 3. 在实验环境中完成实验并提交到自己的[github](https://github.com/)上；
 4. 遇到问题，首先查询手册等其他资料，先自行解决；
 5. 如若不能解决，可在飞书群里提问，可以互相讨论，有助教老师答疑。
@@ -30,8 +30,6 @@
 3. 报告内容包括但不仅限于：实验目的、实验内容、实验步骤、实验结果、遇到的问题与解决方法；
 4. 报告编写完需按时发送给助教并上传到自己的github仓库里。
 
-
-
 ## 维护者
 
 kelee@mail.nankai.edu.cn
@@ -41,3 +39,4 @@ kelee@mail.nankai.edu.cn
 Reference
 
 [ucore step by step](https://1790865014.gitbook.io/ucore-step-by-step/)
+
