@@ -10,9 +10,9 @@
 2. 阅读分析lab0.5/tools/kernel.ld 链接脚本，给出其每行含义。
 3. 一个被系统认为是符合规范的硬盘主引导扇区的特征是什么？
 
-   > \[!TIP\|style:flat\]
-   >
-   > 查看linkscript、装载位置\(base address\)和对其地址\(align\)）
+{% hint style="success" %}
+查看linkscript、装载位置\(base address\)和对其地址\(align\)）
+{% endhint %}
 
 ## 练习2： 分析OpenSBI加载bin格式的OS的过程
 

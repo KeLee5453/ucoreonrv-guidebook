@@ -35,7 +35,7 @@
 10. 如果实现基本正确（即看到6的输出都是OK）则`push`到自己github仓库
 11. 编写实验报告，发送到助教邮箱，并`push`到github仓库
 
-> \[!NOTE\|style:flat\]
->
-> 可以通过`make qemu`让OS实验工程在qemu上运行；可以通过`make debug`或`make debug-nox`命令实现通过gdb远程调试 OS实验工程。
+{% hint style="info" %}
+可以通过`make qemu`让OS实验工程在qemu上运行；可以通过`make debug`或`make debug-nox`命令实现通过gdb远程调试 OS实验工程。
+{% endhint %}
 

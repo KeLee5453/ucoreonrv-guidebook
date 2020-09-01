@@ -85,7 +85,7 @@ default_alloc_pages(size_t n) {
 
 `default_free_pages`函数的实现其实是`default_alloc_pages`的逆过程，不过需要考虑空闲块的合并问题。这里就不再细讲了。自行阅读代码。
 
-> \[!NOTE\|style:flat\]
->
-> 看完了first fit算法了，就需要自己实现best fit算法了噢，思路都是一样的，依葫芦画瓢。
+{% hint style="info" %}
+看完了first fit算法了，就需要自己实现best fit算法了噢，思路都是一样的，依葫芦画瓢。
+{% endhint %}
 

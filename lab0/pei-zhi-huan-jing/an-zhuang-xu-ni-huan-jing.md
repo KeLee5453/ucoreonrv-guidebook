@@ -6,10 +6,12 @@
 2. 到清华镜像站[下载](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/bionic/ubuntu-18.04.4-desktop-amd64.iso)Ubuntu 18.04.3 的镜像文件。 
 3. 具体的安装步骤可参考这个[教程](https://blog.csdn.net/qq_39557270/article/details/102926282)。
 
-> \[!NOTE\|style:flat\]
->
-> 1. 不建议大家使用最新版的Ubuntu系统哦，因为可能会有一些玄学问题。
-> 2. 记得根据【了解实验环境】里面的配置升级源哦。
+{% hint style="info" %}
+
+
+1. 不建议大家使用最新版的Ubuntu系统哦，因为可能会有一些玄学问题。
+2. 记得根据【了解实验环境】里面的配置升级源哦。
+{% endhint %}
 
 ## 安装小工具
 
